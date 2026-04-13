@@ -1,0 +1,4 @@
+# What is PSM (Persistent Stored Modules)?
+Persistent Stored Modules (PSM) is a feature of SQL that allows you to create and manage stored procedures, functions, and triggers. These are reusable blocks of SQL code that can be executed with parameters and can return results. PSM is commonly used to encapsulate business logic, improve performance, and enhance security in database applications.
+
+All of these are procedures that are stored in the database and can be executed on demand. They allow you to write complex logic that can be reused across multiple queries or applications, and they can help improve performance by reducing the amount of SQL code that needs to be sent to the database server for execution. Additionally, PSM can enhance security by allowing you to control access to sensitive data and operations through stored procedures and functions.
