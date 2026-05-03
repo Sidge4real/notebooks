@@ -1,9 +1,17 @@
 # Lab: Connecting Devices  
+## Sources
+- **File:** Day 02 Lab - Connecting Devices.
+- **Video:** https://www.youtube.com/watch?v=K6Qt23sY68Y&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ&index=5
+
+---
+## Lab
 **Connect the network devices together according to the labels.**  
 Assume **Auto‑MDI‑X is disabled**.  
 Packet Tracer maakt geen onderscheid tussen single‑mode en multimode fiber, maar in real‑life moet je dat wél doen.
 
 ![alt text](./images/image.png)
+
+---
 
 ## 1. End Devices → Switches (straight‑through)
 
