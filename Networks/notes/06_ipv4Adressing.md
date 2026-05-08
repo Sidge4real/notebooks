@@ -1,5 +1,7 @@
 # IPv4 Adressing
 
+IPv4 addressing is the system used to identify devices on a network using 32-bit IP addresses. For CCNA 200-301, focus on the basics: network and host portions of an address, subnet masks, prefix length notation, public vs private addresses, and how devices use IP addresses to communicate across local and remote networks.
+
 - **Jeremy's IT Lab** — [Video](https://www.youtube.com/watch?v=3ROdsfEUuhs)
 
 ---

@@ -1,6 +1,6 @@
 # CLI
 
-CLI stands for command-line interface.
+The CLI (Command-Line Interface) is the primary method used to configure, manage, and troubleshoot Cisco network devices through text-based commands. For CCNA 200-301, focus on the basics: navigating Cisco IOS modes, using common show and configuration commands, understanding command syntax and help features, and efficiently managing device configurations from the terminal.
 
 - **Jeremy's IT Lab** — [Video](https://www.youtube.com/watch?v=IYbtai7Nu2g)
 

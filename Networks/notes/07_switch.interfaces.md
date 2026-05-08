@@ -1,5 +1,7 @@
 # Switch interfaces
 
+Switch interfaces are the physical or logical ports used to connect devices and forward Ethernet frames within a LAN. For CCNA 200-301, focus on the basics: access vs trunk interfaces, interface speed and duplex settings, interface status states, and how switch ports are configured and verified using common Cisco IOS commands.
+
 - **Jeremy's IT Lab** — [Video](https://www.youtube.com/watch?v=cCqluocfQe0)
 
 ---

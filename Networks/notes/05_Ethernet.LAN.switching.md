@@ -1,6 +1,6 @@
 # Ethernet LAN Switching
 
-These notes provide a clear, structured overview of Ethernet LAN Switching and how devices communicate inside a local network. They explain how Ethernet frames are built, how switches learn MAC addresses and forward traffic, and how concepts like unicast, unknown unicast flooding, and known unicast forwarding work. The document also covers ARP, showing how IPv4 addresses are resolved to MAC addresses so devices can reach each other within a LAN. In addition, it includes practical commands for viewing and clearing ARP caches and MAC tables, plus a brief explanation of ping and ICMP message types. Overall, it serves as a concise, CCNA‑focused guide to the fundamentals of Ethernet communication and switching.
+Ethernet LAN switching is the process switches use to forward Ethernet frames within a local network based on MAC addresses. For CCNA 200-301, focus on the basics: Ethernet frame structure, MAC address learning, unicast and broadcast forwarding, unknown unicast flooding, ARP for IPv4-to-MAC resolution, and how switches build and use MAC address tables to deliver traffic efficiently within a LAN.
 
 - **Jeremy's IT Lab** — [Video pt.1](https://www.youtube.com/watch?v=u2n762WG0Vo)
 - **Jeremy's IT Lab** — [Video pt.2](https://www.youtube.com/watch?v=5q1pqdmdPjo)

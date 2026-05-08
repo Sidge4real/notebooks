@@ -1,6 +1,6 @@
 # TCP/IP Suite
 
-This section provides insights into diffrence between TCP/IP Suite and OSI model.
+The TCP/IP Suite is the practical networking model used on modern networks and the Internet, defining how devices communicate across interconnected systems. For CCNA 200-301, focus on the basics: the layers of the TCP/IP model, how they compare to the OSI model, and the role of key protocols like IP, TCP, UDP, and Ethernet in end-to-end communication.
 
 - **Jeremy's IT Lab** — [Video](https://www.youtube.com/watch?v=t-ai8JzhHuY)
 

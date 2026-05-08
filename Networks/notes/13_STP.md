@@ -1,6 +1,6 @@
 # STP
 
-STP (Spanning Tree Protocol) is a Layer 2 protocol designed to prevent switching loops in networks with redundant paths. When multiple switches are interconnected, frames can circulate endlessly and bring the entire network down. STP automatically detects potential loops and blocks selected switch ports, ensuring that only one loop‑free path exists at any time. This keeps the network stable, predictable, and resilient even when redundancy is required.
+STP is a Layer 2 protocol that prevents switching loops by blocking redundant paths between switches. For CCNA 200-301, focus on the basics: root bridge election, BPDU messages, and how STP keeps one loop-free path active while still allowing redundancy.
 
 - **Jeremy's IT Lab** — [Part 1 - STP](https://www.youtube.com/watch?v=j-bK-EFt9cY)
 - **Jeremy's IT Lab** — [Part 2 - Rappid STP](https://www.youtube.com/watch?v=EpazNsLlPps%20)

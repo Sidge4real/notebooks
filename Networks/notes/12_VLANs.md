@@ -1,6 +1,6 @@
 # VLAN's
 
-VLANs (Virtual Local Area Networks) allow you to divide a single physical switch network into multiple logical networks. They exist to improve security, reduce unnecessary broadcast traffic, and give you precise control over how devices are grouped and communicate. Instead of relying on separate physical switches, VLANs let you isolate departments, functions, or traffic types using software, making networks more flexible, scalable, and easier to manage.
+VLANs are used to split one physical switch network into multiple logical broadcast domains. For CCNA 200-301, focus on the main idea: VLANs improve security, reduce broadcast traffic, and let you group devices more efficiently without needing separate hardware.
 
 - **Jeremy's IT Lab** — [Part 1](https://www.youtube.com/watch?v=cjFzOnm6u1g)
 - **Jeremy's IT Lab** — [Part 2](https://www.youtube.com/watch?v=Jl9OOzNaBDU)

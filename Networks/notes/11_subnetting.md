@@ -1,6 +1,6 @@
 # Subnetting
 
-Subnetting exists to break a large IP network into smaller, more efficient segments. It helps reduce broadcast traffic, improve performance, increase security, and prevent IP address waste. By dividing a network into subnets, you can control how devices communicate, isolate traffic, and design networks that scale cleanly. In short, subnetting lets you create networks that are the right size for the job instead of using one oversized, inefficient network.
+Subnetting is the process of dividing a large IP network into smaller networks to use addresses more efficiently and reduce broadcast traffic. For CCNA 200-301, focus on the basic purpose, subnet masks, and how subnetting helps with performance, security, and scalability.
 
 - **Jeremy's IT Lab** — [Part 1](https://www.youtube.com/watch?v=bQ8sdpGQu8c)
 - **Jeremy's IT Lab** — [Part 2](https://www.youtube.com/watch?v=IGhd-0di0Qo)

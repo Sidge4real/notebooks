@@ -1,5 +1,7 @@
 # Routing Fundamentals
 
+Routing is the process routers use to forward packets between different networks by selecting the best path to a destination. For CCNA 200-301, focus on the basics: how routers use routing tables, the difference between connected, static, and dynamic routes, and how static routing allows administrators to manually define packet paths between networks.
+
 - **Jeremy's IT Lab** — [Video routing fundamentals](https://www.youtube.com/watch?v=aHwAm8GYbn8)
 - **Jeremy's IT Lab** — [Video static routing](https://www.youtube.com/watch?v=YCv4-_sMvYE)
 

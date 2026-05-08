@@ -1,6 +1,6 @@
 # OSI Model
 
-This section provides a structured explanation of the OSI model, starting with why network models and standardization are necessary, then describing all seven OSI layers in detail, including their functions, examples, and how data moves through them via encapsulation and de‑encapsulation. It explains same‑layer and adjacent‑layer interactions, outlines the responsibilities of each layer from Application to Physical, and includes diagrams showing encapsulation, PDUs, and how devices like switches and routers operate at different layers.
+The OSI model is a seven-layer networking framework used to standardize how devices communicate across networks. For CCNA 200-301, focus on the basics: the purpose and function of each OSI layer, how encapsulation and de-encapsulation move data through the layers, the different PDUs used at each stage, and how devices like switches and routers operate at specific layers of the model.
 
 - **Jeremy's IT Lab** — [Video](https://www.youtube.com/watch?v=t-ai8JzhHuY)
 

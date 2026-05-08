@@ -1,5 +1,7 @@
 # Life of a packet
 
+The “life of a packet” describes the process of how data travels across a network from one device to another. For CCNA 200-301, focus on the basics: encapsulation and de-encapsulation, how switches and routers forward traffic, and the role of protocols like Ethernet, IP, and TCP/UDP at each layer of the network.
+
 - **Jeremy's IT Lab** — [Video](https://www.youtube.com/watch?v=4YrYV2io3as)
 
 ---
