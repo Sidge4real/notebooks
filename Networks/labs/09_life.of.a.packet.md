@@ -31,7 +31,7 @@ Use the CLI and Packet Tracer's simulation mode to verify your answers.
 Identify the src/dst MAC address at each specified point in the route to PC1.
 Identify the MAC address by the device and interface (ie. the MAC of R1 G0/0).
 
-![alt text](image.png)
+![alt text](images/09_life.of.a.packet/image.png)
 
 ---
 

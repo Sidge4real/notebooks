@@ -10,7 +10,7 @@ All devices have NO pre-configurations:
 (You don't have to configure the switches)
 2. Configure static routes on the routers to enable PC1 to succesfully ping PC2.
 
-![alt text](image.png)
+![alt text](images/07_config.static.routes/image.png)
 
 ---
 

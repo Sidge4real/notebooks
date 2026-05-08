@@ -17,8 +17,8 @@ Servers (x2)
 (!) use a laptop as the 'attacker' in the diagram.
 (!) **connect the devices together using packet tracer's auto choose connection type function**
 
-![alt text](./images/image.png)
-![alt text](./images/image-1.png)
+![alt text](./images/00_introduction/image.png)
+![alt text](./images/00_introduction/image-1.png)
 ---
 ## Solution
-![alt text](./images/image-2.png)
+![alt text](./images/00_introduction/image-2.png)

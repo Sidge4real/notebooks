@@ -12,7 +12,7 @@ Both switches have an empty MAC address table, and all PCs have an empty ARP tab
 4. use 'show' commands on the switches to identify the MAC address of each PC.
 5. Clear the dynamic MAC addresses from the MAC address table of each switch.
 
-![alt text](./images/image.png)
+![alt text](./images/04_ethernet.lan.switching/image.png)
 
 ---
 ## Notes / Anwsers
@@ -58,7 +58,7 @@ The switch displays a table containing:
 - **Type** (dynamic/static)  
 - **Port** (the interface where the MAC was learned)
 
-![alt text](./images/image-1.png)
+![alt text](./images/04_ethernet.lan.switching/image-1.png)
 
 (5.) **Clear the dynamic MAC addresses from the MAC address table of each switch.**
 

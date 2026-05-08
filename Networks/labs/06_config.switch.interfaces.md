@@ -13,7 +13,7 @@
 5. disable interfaces which are not connected to other devices
 6. Save the configs
 
-![alt text](./images/image.png)
+![alt text](./images/06_config.switch.interfaces/image.png)
 
 ---
 

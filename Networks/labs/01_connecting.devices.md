@@ -9,7 +9,7 @@
 Assume **Auto‑MDI‑X is disabled**.  
 Packet Tracer maakt geen onderscheid tussen single‑mode en multimode fiber, maar in real‑life moet je dat wél doen.
 
-![alt text](./images/image.png)
+![alt text](./images/01_connecting.devices/image.png)
 
 ---
 
@@ -99,4 +99,4 @@ Switches zijn het omgekeerde → **straight‑through**.
 
 
 ## Result
-![alt text](./images/image-1.png)
+![alt text](./images/01_connecting.devices/image-1.png)

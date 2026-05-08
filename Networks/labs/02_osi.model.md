@@ -13,7 +13,7 @@ What layers of the OSI model are being used?
 2. Release and renew PC1's IP address to generate some layer 7 traffic.
 Analyse the traffic with simulation mode.
 
-![alt text](./images/image.png)
+![alt text](./images/02_osi.model/image.png)
 
 ---
 ## Notes of observations pt.1

@@ -29,7 +29,7 @@
 
 10. Save the running configuration to the startup configuration
 
-![alt text](./images/image.png)
+![alt text](./images/03_basic.device.security/image.png)
 
 ---
 1. 

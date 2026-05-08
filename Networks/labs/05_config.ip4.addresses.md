@@ -14,7 +14,7 @@
 6. configure the IP addresses of PC1, PC2, PC3
 7. Ping from PC1 to PC2 and PC3 to test connectivity.
 
-![alt text](./images/image.png)
+![alt text](./images/05_config.ip4.addresses/image.png)
 
 ---
 ## Lab solution
@@ -30,15 +30,15 @@ hostname R1
 
 (3.) **configure the appropiate IP addresses on R1's interface and enable the interfaces. Configure appropiate interface descriptions.**
 
-![alt text](./images/image-5.png)
-![alt text](./images/image-1.png)
+![alt text](./images/05_config.ip4.addresses/image-5.png)
+![alt text](./images/05_config.ip4.addresses/image-1.png)
 `no shutdown` command
-![alt text](./images/image-2.png)
+![alt text](./images/05_config.ip4.addresses/image-2.png)
 
 etc for the rest...
 
 `end` command
-![alt text](./images/image-3.png)
+![alt text](./images/05_config.ip4.addresses/image-3.png)
 
 (4.) **use a 'show' command to verify R1's interfaces again.**
 `show ip interface brief`
@@ -57,7 +57,7 @@ copy running-config start
 write mem (or wr)
 ```
 
-![alt text](./images/image-4.png)
+![alt text](./images/05_config.ip4.addresses/image-4.png)
 same for PC2 and PC3
 
 (7.) **Ping from PC1 to PC2 and PC3 to test connectivity**

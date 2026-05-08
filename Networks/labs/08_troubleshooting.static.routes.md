@@ -10,7 +10,7 @@ There is one misconfiguration on each router.
 Find and fix the misconfigurations.
 You have succesfully completed the lab when PC1 and PC2 can ping eachother.
 
-![alt text](image.png)
+![alt text](images/08_troubleshooting.static.routes/image.png)
 
 ---
 ## observations & solutions
