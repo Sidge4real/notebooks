@@ -42,6 +42,8 @@ If a switch stops working that is closest to a group of PC's, then we have an is
 - Redundant links remain available for failover
 
 ## Bridge ID (BID)
+*know what it is, but no details.
+
 ![alt text](./images/13_STP/image-11.png)
 Each switch has a Bridge ID:
 

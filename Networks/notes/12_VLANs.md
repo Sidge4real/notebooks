@@ -176,7 +176,11 @@ command **vlan 10** creates a VLAN.
 - LAN30 and LAN20 are per switch defined.
 - LAN20 has no route towards SW1, only SW1 and R1.
 
+VLAN20 has only SW2 connected, no other on SW1. Think about 2 buildings.
+
 ## Trunk Ports
+*fields not necsairy to know. 
+*tagging is import to know, untagged/tagged lines.
 
 ### What is a trunk port?
 A trunk port is a switch port that carries multiple VLANs over a single physical connection using 802.1Q tagging.

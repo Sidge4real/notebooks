@@ -1,4 +1,6 @@
 # Quiz: STP
+*not to know for exam
+
 ## Quiz 1
 Which will become the root bridge?
 
